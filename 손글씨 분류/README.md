@@ -1,9 +1,9 @@
 # ✏손 글씨 (숫자) 분류 경진대회(Dacon)
 Dacon Competition으로 손글씨를 분류
-	- 평가지표는 Accuracy
-	- train 5000개, test 5000개의 데이터이고 0~9까지의 label 존재
-	- pre-trained모델 사용 X
-	- Public 8위(93%), Private 13위(92.05%)
+- 평가지표는 Accuracy
+- train 5000개, test 5000개의 데이터이고 0~9까지의 label 존재
+- pre-trained모델 사용 X
+- Public 8위(93%), Private 13위(92.05%)
 
 [Competition Link](https://dacon.io/competitions/official/235838/overview/description)
 
