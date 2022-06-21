@@ -8,7 +8,7 @@ Dacon Competition으로 손글씨를 분류
 [Competition Link](https://dacon.io/competitions/official/235838/overview/description)
 
 
-### ✅Base : [Baseline Link]https://github.com/0001010/Dacon-Kaggle/blob/main/%EC%86%90%EA%B8%80%EC%94%A8%20%EB%B6%84%EB%A5%98/dacon_mnist_baseline.ipynb
+### ✅Base : [Baseline Link](https://github.com/0001010/Dacon-Kaggle/blob/main/%EC%86%90%EA%B8%80%EC%94%A8%20%EB%B6%84%EB%A5%98/dacon_mnist_baseline.ipynb)
 
 ### 💪시도(Baseline + 여러가지 방법)
 1. sub_image_aug기준 0.895 epoch 100
